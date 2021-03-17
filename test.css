@@ -1,0 +1,9 @@
+p {
+    color: blue;
+    font-weight: bolder;
+    font-size: 5em;
+}
+
+td {
+    border: 2px dotted goldenrod;
+}
