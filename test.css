@@ -10,3 +10,28 @@ p {
 td {
     border: 2px dotted goldenrod;
 }
+
+#bloc {
+    display: flex;
+    justify-content: space-around;
+	flex-wrap: wrap;
+	align-items: center;
+	border: 2px solid #444;
+	height: 200px;
+}
+
+.ab {
+    background-color: blue;
+    width: 250px;
+	height: 100px;
+}
+.cd {
+    background-color: orangered;
+    width: 250px;
+	height: 100px;
+}
+.ef {
+    background-color: green;
+    width: 250px;
+	height: 100px;
+}
