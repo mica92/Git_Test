@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 HELLO
+=======
+HELLO
+BONJOUR
+OLA
+ABARI
+...
+>>>>>>> Eden
